@@ -1,55 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
     <title>flag: British Virgin Islands</title>
-    <defs>
-        <linearGradient id="h" x1="-2894.462" x2="-2893.46" gradientTransform="matrix(-.5685 -.4287 -.1896 1.2856 -1429.15 -2349.261)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="red"/>
-            <stop offset="1" stop-color="#ff0"/>
-        </linearGradient>
-        <linearGradient id="l" x1="-2893.675" x2="-2892.674" gradientTransform="matrix(-.5688 -.4289 -.1897 1.2862 -1429.406 -2337.6)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="red"/>
-            <stop offset="1" stop-color="#ff0"/>
-        </linearGradient>
-        <linearGradient id="i" x1="-2889.79" x2="-2888.789" gradientTransform="matrix(-.5702 -.43 -.1901 1.2894 -1430.838 -2352.778)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="red"/>
-            <stop offset="1" stop-color="#ff0"/>
-        </linearGradient>
-        <linearGradient id="k" x1="-2890.572" x2="-2889.572" gradientTransform="matrix(-.5699 -.4298 -.1901 1.2888 -1430.426 -2345.343)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="red"/>
-            <stop offset="1" stop-color="#ff0"/>
-        </linearGradient>
-        <linearGradient id="j" x1="-2884.43" x2="-2883.43" gradientTransform="matrix(-.5722 -.4314 -.1908 1.2938 -1432.43 -2357.311)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="red"/>
-            <stop offset="1" stop-color="#ff0"/>
-        </linearGradient>
-        <linearGradient id="g" x1="-2887.594" x2="-2886.593" gradientTransform="matrix(-.571 -.4306 -.1904 1.2913 -1431.304 -2362.37)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="red"/>
-            <stop offset="1" stop-color="#ff0"/>
-        </linearGradient>
-        <linearGradient id="a" x1="-2890.051" x2="-2889.051" gradientTransform="matrix(-.5701 -.4299 -.1901 1.2892 -1441.875 -2358.836)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="red"/>
-            <stop offset="1" stop-color="#ff0"/>
-        </linearGradient>
-        <linearGradient id="f" x1="-2891.519" x2="-2890.52" gradientTransform="matrix(-.5696 -.4295 -.1899 1.288 -1441.695 -2340.727)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="red"/>
-            <stop offset="1" stop-color="#ff0"/>
-        </linearGradient>
-        <linearGradient id="b" x1="-2892.84" x2="-2891.841" gradientTransform="matrix(-.5691 -.4291 -.1898 1.2869 -1441.012 -2351.557)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="red"/>
-            <stop offset="1" stop-color="#ff0"/>
-        </linearGradient>
-        <linearGradient id="d" x1="-2890.637" x2="-2889.638" gradientTransform="matrix(-.5699 -.4297 -.19 1.2887 -1439.702 -2348.148)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="red"/>
-            <stop offset="1" stop-color="#ff0"/>
-        </linearGradient>
-        <linearGradient id="e" x1="-2890.685" x2="-2889.685" gradientTransform="matrix(-.5699 -.4297 -.19 1.2887 -1442.032 -2345.252)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="red"/>
-            <stop offset="1" stop-color="#ff0"/>
-        </linearGradient>
-        <linearGradient id="c" x1="-2888.375" x2="-2887.377" gradientTransform="matrix(-.5707 -.4304 -.1903 1.2906 -1442.509 -2354.917)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="red"/>
-            <stop offset="1" stop-color="#ff0"/>
-        </linearGradient>
-    </defs>
     <g fill="#2a5f9e">
         <path d="M32 2v30H2c0 16.6 13.4 30 30 30s30-13.4 30-30S48.6 2 32 2z"/>
         <path d="M12 12h21v21H12z"/>
@@ -63,18 +13,18 @@
     <path fill="#ed4c5c" d="M32 5H18.9c-6 2.9-11 7.9-13.9 13.9V32h6V11h21V5z"/>
     <path fill="#fff" d="M35 22.2l19.5-.1v17.3s.7 2.6-8.2 6.6c3.2-.3 6.6-3.7 6.6-3.7s1.4-1.8 2.1-.8c.7 1 1.3 1.5 1.8 1.9.5.4.9 1.5.1 2.3-.8.8-2 .9-2.3-.1-.5.3-3.6 4-10 4.2-6.5-.1-10-4.2-10-4.2s-.9 1.4-2.1.3c-1.2-1.4-.3-2.3-.3-2.3s1-.6 1.3-1c.5-.5.6-1.3 1.4-1.3.9.1 1.3.8 1.3.8s3.3 3.4 6.8 3.9c-7.9-3.8-8.2-6.1-8.2-6.7l.2-17.1"/>
     <path fill="#006129" d="M35.5 22.6l18.6-.1v16.7c0 2.2-3.6 4.4-9.3 7.2-5.9-3-9.3-4.9-9.3-7.2V22.6"/>
-    <path fill="url(#a)" d="M37.6 25.1l.3-.6-.4-1.1-.2 1.7z"/>
-    <path fill="url(#b)" d="M37.6 28.3l.2-.6-.3-1.1-.3 1.7z"/>
-    <path fill="url(#c)" d="M37.6 31.5l.2-.7-.4-1-.2 1.7z"/>
-    <path fill="url(#d)" d="M39.6 34.9l.3-.6-.4-1.1-.2 1.7z"/>
-    <path fill="url(#e)" d="M37.3 37.7l.2-.6-.3-1.1-.3 1.7z"/>
-    <path fill="url(#f)" d="M37.3 41l.3-.6-.4-1.1L37 41z"/>
-    <path fill="url(#g)" d="M49 25.1l.3-.6-.4-1-.2 1.6z"/>
-    <path fill="url(#h)" d="M48.9 28.3l.3-.6-.4-1.1-.2 1.7z"/>
-    <path fill="url(#i)" d="M48.8 31.5l.2-.6-.3-1.1-.3 1.7z"/>
-    <path fill="url(#j)" d="M48.9 34.7l.3-.6-.4-1.1-.2 1.7z"/>
-    <path fill="url(#k)" d="M48.9 37.9l.2-.7-.3-1-.3 1.7z"/>
-    <path fill="url(#l)" d="M48.9 41l.3-.6-.4-1-.2 1.6z"/>
+    <path fill="#ff0000" d="M37.6 25.1l.3-.6-.4-1.1-.2 1.7z"/>
+    <path fill="#ff0000" d="M37.6 28.3l.2-.6-.3-1.1-.3 1.7z"/>
+    <path fill="#ff0000" d="M37.6 31.5l.2-.7-.4-1-.2 1.7z"/>
+    <path fill="#ff0000" d="M39.6 34.9l.3-.6-.4-1.1-.2 1.7z"/>
+    <path fill="#ff0000" d="M37.3 37.7l.2-.6-.3-1.1-.3 1.7z"/>
+    <path fill="#ff0000" d="M37.3 41l.3-.6-.4-1.1L37 41z"/>
+    <path fill="#ff0000" d="M49 25.1l.3-.6-.4-1-.2 1.6z"/>
+    <path fill="#ff0000" d="M48.9 28.3l.3-.6-.4-1.1-.2 1.7z"/>
+    <path fill="#ff0000" d="M48.8 31.5l.2-.6-.3-1.1-.3 1.7z"/>
+    <path fill="#ff0000" d="M48.9 34.7l.3-.6-.4-1.1-.2 1.7z"/>
+    <path fill="#ff0000" d="M48.9 37.9l.2-.7-.3-1-.3 1.7z"/>
+    <path fill="#ff0000" d="M48.9 41l.3-.6-.4-1-.2 1.6z"/>
     <g fill="#ffc6b5">
         <path d="M44.3 24.4c.1.4-.3.6-.3.8 0 .3.1.8.5.9.6.2.1.8-.1 1.3.6-.1 1.3-.1 1.9-.2-.6-.9-.5-1.6-.5-2.6 0-.7-1.6-1-1.5-.2M44 27.2c-.8.4-.7 1.6-.8 2.4-.1.6-1 1.3-1.3 1.8-.4.6-.9 1-.9 1.7 0 1.2.6.6.9-.1.2-.5-.3-.6.3-1 .5-.4 1.4-.8 1.6-1.4.3-.9.1-2.4.2-3.4"/>
     </g>
